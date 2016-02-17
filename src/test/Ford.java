@@ -1,6 +1,6 @@
 package test;
 
-public class Ford extends Car {
+public class Ford extends Car {   //demonstrating polymorphism; class Ford is a subclass of class Car
 	public Ford() {
 
 	}
